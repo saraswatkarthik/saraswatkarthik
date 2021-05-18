@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraswatkarthik
-- 👀 I’m interested in web development 
+- 👀 I’m interested in front-end web development 
 - 🌱 I’m currently learning front-end web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
